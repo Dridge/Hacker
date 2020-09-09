@@ -1,0 +1,14 @@
+# ignore generated html files,
+*.html
+# ignore settings
+.settings
+# ignore classpath
+.classpath
+# ignore built class files
+bin
+classes
+# ignore idea files
+.idea
+out
+# log files
+*.log
